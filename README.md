@@ -1,15 +1,13 @@
 # Digital_Hamster_Clock
+-
+https://canelian.github.io/Digital_Hamster_Clock/
+-
 - 배경은 쳇바퀴 도는 시간이라 생각되어 무한궤도 같은걸로 넣었습니다.
 - 년,월,일,시,분,초는 영어로 하고 다닥다닥 붙여놓으니 눈도 아프고해서 중간에 특문넣어서 떨어뜨렸습니다.
 - Font는 전에 받았던걸로 했습니다.(digital7mono)
 
 ## 무료 GIF CITE
 - https://giphy.com/
-
-
-
-
-
 
 
 ### 한탄들
